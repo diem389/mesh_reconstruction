@@ -5,3 +5,5 @@
 *.npz
 ./data/models
 ./memo.txt
+/data
+/.vscode
